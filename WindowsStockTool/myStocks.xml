@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMyStock xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <MyStock>
+        <type>sh</type>
+        <code>000001</code>
+        <name>上证指数</name>
+    </MyStock>
+    <MyStock>
+        <type>sz</type>
+        <code>399001</code>
+        <name>深证指数</name>
+    </MyStock>
+</ArrayOfMyStock>
